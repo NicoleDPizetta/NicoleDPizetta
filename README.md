@@ -1,4 +1,4 @@
-## OLá! Meu nome é Nicole Dalzotto Pizetta. 👋
+## Olá! Meu nome é Nicole Dalzotto Pizetta. 👋
 Sinta-se a vontade para fuçar meu perfil!
 
 - 💬 Tenho 22 anos
