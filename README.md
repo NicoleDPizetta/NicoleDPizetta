@@ -26,7 +26,7 @@ Sinta-se a vontade para fuçar meu perfil!
  <a href = "https://dribbble.com/nicoledalzottodesign"><img src="https://img.shields.io/badge/-Dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white" target="_blank"></a>
 
  ##
-   <a href="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/-Swift-fb6c3a?style=for-the-badge&logo=swift&logoColor=white" target="_blank"></a> 
+   <a href="https://github.com/nicoledpizetta" target="_blank"><img src="https://img.shields.io/badge/-Swift-fb6c3a?style=for-the-badge&logo=swift&logoColor=white" target="_blank"></a> 
 <div style="display: inline_block"><br>
  
 ##
