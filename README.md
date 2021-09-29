@@ -23,7 +23,7 @@ Sinta-se a vontade para fuçar meu perfil!
   <a href="https://instagram.com/nicoledalzotto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/NicoleDPizetta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://www.behance.net/colliefaye" target="_blank"><img src="https://img.shields.io/badge/Behance-0057ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
- <a href = "https://dribbble.com/nicoledalzottodesign"><img src="https://img.shields.io/badge/-Dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white" target="_blank"></a>
+ <a href = "https://www.facebook.com/CollieFaye.Design"><img src="https://img.shields.io/badge/-Facebook-1877f2?style=for-the-badge&logo=dribbble&logoColor=white" target="_blank"></a>
 
  ##
    <a href="https://github.com/nicoledpizetta" target="_blank"><img src="https://img.shields.io/badge/-Swift-fb6c3a?style=for-the-badge&logo=swift&logoColor=white" target="_blank"></a> 
