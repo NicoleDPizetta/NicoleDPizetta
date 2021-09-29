@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Nicole Dalzotto Pizetta. 👋
 Sinta-se a vontade para fuçar meu perfil!
 
-- 💬 Tenho 22 anos
+- 💬 Tenho 23 anos
 - 💍 Casada
 - 💼 Trabalho como Designer Gráfica Freelancer, focada em criação de Identidades Visuais.
 - 🐦 Atualmente estudando linguagem Sfwit.
