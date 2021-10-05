@@ -3,9 +3,10 @@ Sinta-se a vontade para fuçar meu perfil!
 
 - 💬 Tenho 23 anos
 - 💍 Casada
+- ♎ Libriana
 - 💼 Trabalho como Designer Gráfica Freelancer, focada em criação de Identidades Visuais.
-- 🐦 Atualmente estudando linguagem Sfwit.
-- 🌱 Tenho interesse em Desenvolvimento IOS 
+- 🐦 Atualmente estudando linguagem Swift.
+- 🌱 Tenho interesse em entrar na carreira de Desenvolvimento IOS 
 - 📫 Se quiser entrar em contato comigo, [clique aqui!](https://cliolink.com/colliefaye.design)
 - 😄 É isso, pessoal!
 
@@ -32,6 +33,8 @@ Sinta-se a vontade para fuçar meu perfil!
 ##
   ###### Hobbies
 * Games
+* Animes
+* Filmes e séries
 * Desenhar
 * Lettering
 * Crochê
