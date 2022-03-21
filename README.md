@@ -3,13 +3,12 @@ Sinta-se a vontade para fuçar meu perfil!
 
 - 💬 Tenho 23 anos
 - 💍 Casada
-- 💼 Trabalhei como Designer Gráfica Freelancer, focada em criação de Identidades Visuais.
+- 💖 Amo design, criação visual, tecnologia e criatividade
+- 💼 Trabalhei como Designer Gráfica Freelancer, focada em criação de Identidades Visuais
 - 🌱 Buscando migrar de área
-- 📫 Para entrar em contato comigo, [clique aqui!](https://cliolink.com/colliefaye.design)
 - 😄 É isso, pessoal!
 
 #### Atualmente estudando
-- 💻 UI/UX Design
 - 🐦 Linguagem de programação Swift 
 
 ##
@@ -29,12 +28,12 @@ Sinta-se a vontade para fuçar meu perfil!
  <a href = "https://www.facebook.com/CollieFaye.Design"><img src="https://img.shields.io/badge/-Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 
  ##
- ###### Entre no meu server do Discord!
+ - 📫 Para entrar em contato comigo, você pode utilizar o Discord!
+ ###### Entre no meu server do Discord:
 <a href="https://discord.gg/Nk7kUSz7t6" target="_blank"><img src="https://img.shields.io/badge/-Discord-5165f6?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <div style="display: inline_block"><br>
  
  ##
- 
   ###### Hobbies
 * Games
 * Animes
