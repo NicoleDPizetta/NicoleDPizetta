@@ -29,7 +29,8 @@ Sinta-se a vontade para fuçar meu perfil!
 
 ##
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/nicoledpizetta/NicoleDPizetta
+/blob/output/github-contribution-grid-snake.svg)
 
 #### Meus Hobbies
 * Games
