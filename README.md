@@ -5,11 +5,31 @@ Sinta-se a vontade para fuçar meu perfil!
 - 💍 Casada
 - 💖 Amo tecnologia, design, arte e criatividade
 - 💼 Trabalhei como Designer Gráfica Freelancer, focada em criação de Identidades Visuais
-- 🌱 Buscando migrar de área
-- 😄 É isso, pessoal!
+- 🌱 Buscando migrar de área para Desenvolvimento Web Front-end
 
-#### Atualmente estudando
-- 🌸 HTML, CSS e Javascript
+#### 🌸 Atualmente estudando
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=Flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=Flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=Flat-square&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=Flat-square&logo=node.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=Flat-square&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=Flat-square&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=Flat-square&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=Flat-square&logo=SASS&logoColor=white)
+
+
+#### 🌸 Também tenho conhecimentos/experiência em:
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=Flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=Flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=Flat-square&logo=git&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=Flat-square&logo=swift&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=Flat-square&logo=adobe%20photoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=Flat-square&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=Flat-square&logo=adobe%20illustrator&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=Flat-square&logo=adobeindesign&logoColor=white)
+
 
 ##
 
