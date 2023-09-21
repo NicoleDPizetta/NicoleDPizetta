@@ -15,7 +15,6 @@ Sinta-se a vontade para fuçar meu perfil!
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=Flat-square&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=Flat-square&logo=node.js&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=Flat-square&logo=next.js&logoColor=white)
-
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=Flat-square&logo=SASS&logoColor=white)
 
 
