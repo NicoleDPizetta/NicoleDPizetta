@@ -9,13 +9,13 @@ Sinta-se a vontade para fuçar meu perfil!
 
 #### 🌸 Atualmente estudando
 
+![Python](https://img.shields.io/badge/Python-14354C?style=Flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=Flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=Flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=Flat-square&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=Flat-square&logo=node.js&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=Flat-square&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=Flat-square&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=Flat-square&logo=bootstrap&logoColor=white)
+
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=Flat-square&logo=SASS&logoColor=white)
 
 
