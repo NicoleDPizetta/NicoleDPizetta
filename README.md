@@ -1,11 +1,10 @@
 ## Olá! Meu nome é Nicole Dalzotto Pizetta. 👋
-Sinta-se a vontade para fuçar meu perfil!
 
-- 💬 Tenho 24 anos
+- 💬 Tenho 25 anos
 - 💍 Casada
 - 💖 Amo tecnologia, design, arte e criatividade
+- 🖥 Estagiária de Desenvolvimento FullStack na Lojas Quero Quero
 - 💼 Trabalhei como Designer Gráfica Freelancer, focada em criação de Identidades Visuais
-- 🌱 Buscando migrar de área para Desenvolvimento Web Front-end
 
 #### 🌸 Atualmente estudando
 
