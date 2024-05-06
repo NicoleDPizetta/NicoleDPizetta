@@ -3,22 +3,23 @@
 - 💬 Tenho 25 anos
 - 💍 Casada
 - 💖 Amo tecnologia, design, arte e criatividade
-- 🖥 Estagiária de Desenvolvimento FullStack na Lojas Quero Quero
-- 💼 Trabalhei como Designer Gráfica Freelancer, focada em criação de Identidades Visuais
+- 🖥 Estagiária na Lojas Quero-Quero
+- 💼 Trabalhando HomeOffice com RPA e Chatbot
+- 🎉 Cotidianamente commitando no gitlab da empresa
 
-#### 🌸 Atualmente estudando
+#### 🌸 Atualmente trabalhando com
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=Flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%231572B6.svg?style=Flat-square&logo=postgresql&logoColor=white)
+
+
+#### 🌸 Também tenho conhecimentos/experiência em:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=Flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=Flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=Flat-square&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=Flat-square&logo=node.js&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=Flat-square&logo=next.js&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=Flat-square&logo=SASS&logoColor=white)
-
-
-#### 🌸 Também tenho conhecimentos/experiência em:
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=Flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=Flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=Flat-square&logo=git&logoColor=white)
