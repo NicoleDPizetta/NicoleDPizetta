@@ -3,14 +3,17 @@
 - 💬 Tenho 25 anos
 - 💍 Casada
 - 💖 Amo tecnologia, design, arte e criatividade
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 🖥 Estagiária na Lojas Quero-Quero
 - 💼 Trabalhando HomeOffice com RPA e Chatbot
-- 🎉 Cotidianamente commitando no gitlab da empresa
+- 🎉 Cotidianamente commitando no GitLab da empresa
 
 #### 🌸 Atualmente trabalhando com
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=Flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%231572B6.svg?style=Flat-square&logo=postgresql&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-%23430098.svg?style=Flat-square&logo=insomnia&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitLab-%23323330.svg?style=Flat-square&logo=gitLab&logoColor=%FF5722)
 
 
 #### 🌸 Também tenho conhecimentos/experiência em:
@@ -24,6 +27,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=Flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=Flat-square&logo=git&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=Flat-square&logo=swift&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000?style=Flat-square&logo=markdown&logoColor=%23F7DF1E)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=Flat-square&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=Flat-square&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=Flat-square&logo=adobe%20illustrator&logoColor=white)
