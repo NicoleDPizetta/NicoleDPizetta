@@ -1,9 +1,9 @@
 ## Olá! Meu nome é Nicole Dalzotto Pizetta. 👋
 
-- 💬 Tenho 26 anos  
-- 💍 Casada  
+- 💬 27 anos  
+- 💍  Casada  
 - 💖 Apaixonada por tecnologia, design e soluções que melhoram a experiência das pessoas
-- 🎓 Cursando último semestre de **Análise e Desenvolvimento de Sistemas**
+- 🎓 Formada em **Análise e Desenvolvimento de Sistemas** e **Gestão de Recursos Humanos**
 - 💼 Trabalho nas **Lojas Quero-Quero**, em modelo remoto, com foco em **RPA** e **Chatbots** voltados ao atendimento de clientes e colaboradores  
 - 🧑‍💻 Commito diariamente no GitLab da empresa, por isso o GitHub está mais paradinho — mas é por um bom motivo! 😄
 - 🎨 Tenho vivência anterior como designer gráfica, o que me proporcionou olhar técnico e estético refinado, especialmente útil na criação de soluções com foco em usabilidade e experiência do usuário.
@@ -11,6 +11,7 @@
 
 #### 🌸 Atualmente trabalhando com
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![GO](https://img.shields.io/badge/golang-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
