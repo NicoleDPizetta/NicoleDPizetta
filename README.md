@@ -1,11 +1,10 @@
 ## Olá! Meu nome é Nicole Dalzotto Pizetta. 👋
 
-- 💬 27 anos  
-- 💍  Casada  
+- 💬 27 anos
+- 💍  Casada
 - 💖 Apaixonada por tecnologia, design e soluções que melhoram a experiência das pessoas
 - 🎓 Formada em **Análise e Desenvolvimento de Sistemas** e **Gestão de Recursos Humanos**
-- 💼 Trabalho nas **Lojas Quero-Quero**, em modelo remoto, com foco em **RPA** e **Chatbots** voltados ao atendimento de clientes e colaboradores  
-- 🧑‍💻 Commito diariamente no GitLab da empresa, por isso o GitHub está mais paradinho — mas é por um bom motivo! 😄
+- 💼 Trabalho nas **Lojas Quero-Quero**, em modelo remoto, com foco em **RPA** e **Chatbots** voltados ao atendimento de clientes e colaboradores
 - 🎨 Tenho vivência anterior como designer gráfica, o que me proporcionou olhar técnico e estético refinado, especialmente útil na criação de soluções com foco em usabilidade e experiência do usuário.
 
 
@@ -49,9 +48,8 @@
 </div> 
 
 #### 🎮 Meus hobbies:
-- Games 🎮  
-- Animes ✨  
-- Filmes e séries 🎬  
-- Tenho uma lojinha de crochê 🧶  
-- Desenho, colagem e scrapbook 🎨 
+- Games 🎮 
+- Animes ✨
+- Filmes e séries 🎬
+- Desenho, colagem, scrapbook, crochê e cerâmica 🎨
 
